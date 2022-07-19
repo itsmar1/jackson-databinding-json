@@ -18,6 +18,7 @@
 	<dependencies>
 
 		<!-- TODO: Add your dependency here -->
+
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
